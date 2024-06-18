@@ -39,7 +39,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiasts with a passion for development.",
+    title: "We are Tech enthusiasts with a passion for development.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -108,31 +108,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Venustusy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Venustusy's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Venustusy is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Venustusy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Venustusy's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Venustusy is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Venustusy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Venustusy's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Venustusy is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Venustusy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Venustusy's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Venustusy is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Venustusy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Venustusy's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Venustusy is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
