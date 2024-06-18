@@ -177,28 +177,42 @@ export const workExperience = [
     title: "Cybersecurity",
     desc: "Protect your IT systems against malware and criminal attacks with cybersecurity analysis services from Venustusy.",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "/cybersecurity.svg",
   },
   {
     id: 2,
     title: "Website Development",
     desc: "Design and Develop optimized Web browsing solutions to ensure your end-users can quickly and conveniently accomplish their tasks whenever they are online.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
+    thumbnail: "/web.svg",
   },
   {
     id: 3,
     title: "Software Consultation",
     desc: "Whatever your software challenge is, our Solution Architecture experts are ready to help you with complex processes.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
+    thumbnail: "/consulting.svg",
   },
   {
     id: 4,
     title: "Mobile App Development",
     desc: "Whether Native, Hyprid, cross-platform, or progressive web apps. We excel in custom mobile app development through the synergy of expert teams and efficient processes.",
     className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
+    thumbnail: "/mobile.svg",
+  },
+  {
+    id: 5,
+    title: "Training and Development",
+    desc: "Venustusy offers internships for university students, providing hands-on experience in software development, cybersecurity, and project management. Our focus is on practical learning and real-world projects.",
+    className: "md:col-span-2",
+    thumbnail: "/training.svg",
+  },
+  {
+    id: 6,
+    title: "Cloud Computing",
+    desc: "Whether Native, Hyprid, cross-platform, or progressive web apps. We excel in custom mobile app development through the synergy of expert teams and efficient processes.",
+    className: "md:col-span-2",
+    thumbnail: "/cloudcomputing.svg",
   },
 ];
 
