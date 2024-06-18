@@ -174,29 +174,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Cybersecurity",
+    desc: "Protect your IT systems against malware and criminal attacks with cybersecurity analysis services from Venustusy.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Website Development",
+    desc: "Design and Develop optimized Web browsing solutions to ensure your end-users can quickly and conveniently accomplish their tasks whenever they are online.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Software Consultation",
+    desc: "Whatever your software challenge is, our Solution Architecture experts are ready to help you with complex processes.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Mobile App Development",
+    desc: "Whether Native, Hyprid, cross-platform, or progressive web apps. We excel in custom mobile app development through the synergy of expert teams and efficient processes.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
