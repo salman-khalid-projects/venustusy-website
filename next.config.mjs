@@ -1,6 +1,8 @@
 import { withSentryConfig } from "@sentry/nextjs";
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+    swcMinify: false, // Disable SWC minification to use the JavaScript fallback
+};
 
 export default withSentryConfig(withSentryConfig(nextConfig, {
 // For all available options, see:
