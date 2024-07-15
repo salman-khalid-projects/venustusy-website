@@ -73,11 +73,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Real Estate Management App",
+    des: "The future of property management. Our digital solution to stereamlined operations, seemless tenant communications and unparalleled effeciency in managing properties.",
     img: "/real-estate.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "",
   },
   {
     id: 2,
@@ -85,23 +85,23 @@ export const projects = [
     des: "Mahalli, an e-commerce platform dedicated to promoting local Bahraini products. This website offers a seamless shopping experience, allowing users to explore and purchase authentic local goods with ease.",
     img: "/mahalli.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "Scrap Bahrain",
+    des: "Scrap is Bahrain's premier platform revolutionizing automotive parts procurement. This innovative system streamlines scrap yard inventory management with real-time updates, summary dashboards, and user management, while providing customers with an extensive parts database, intuitive search tools, secure purchasing, and order tracking via a mobile app. By enhancing efficiency,             reliability, and sustainability, Scrap sets a new standard in the automotive salvage industry. Experience the future of automotive parts procurement with Scrap.",
     img: "/scrap.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Fawateeri - Simplified Billing",
+    des: "Introducing Fawateeri, an advanced bill management application designed to streamline and secure your financial obligations. Access, track, and analyze bills effortlessly with customizable warranty reminders and detailed transaction charts. Simplify your financial management with Fawateeri, ensuring peace ofnmind and efficiency.",
     img: "/dental.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "",
   },
 ];
 
@@ -220,13 +220,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "",
   },
 ];
