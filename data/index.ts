@@ -108,33 +108,21 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Venustusy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Venustusy's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Venustusy is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Venustusy was a game-changer for our company. Their team not only brought our vision to life but also exceeded our expectations in every way. Their attention to detail and innovative approach to software solutions made a significant impact on our operations. We couldn't have asked for a better partner to guide us through our digital transformation. Venustusy truly understands the meaning of customer service and delivers it flawlessly.",
+    name: "Salman Khalid",
+    title: "Founder of AiChat",
   },
   {
     quote:
-      "Collaborating with Venustusy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Venustusy's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Venustusy is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Venustusy has been instrumental in our project's success from the very start. Their commitment to excellence and mastery in web development propelled our project forward. They are not just service providers; they are true partners who are deeply invested in our goals and success. Every deadline was met with time to spare, and their responsive communication style kept us in the loop at every stage. I highly recommend Venustusy for anyone looking for top-tier tech solutions and genuine customer engagement.",
+    name: "Abdulrahman Ali",
+    title: "CTO Of Real Estate App",
   },
   {
     quote:
-      "Collaborating with Venustusy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Venustusy's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Venustusy is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Venustusy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Venustusy's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Venustusy is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Venustusy was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Venustusy's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Venustusy is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "From the initial consultation to the final rollout, our experience with Venustusy was nothing short of stellar. Their strategic insights and cutting-edge technology have significantly boosted our online presence. The team's proactive approach in handling project challenges assured us we made the right decision. Venustusy's dedication to client success is palpable, making them a standout provider in the tech industry. They are not just a company you hire, they are a partner who cares about your growth.",
+    name: "Mohammed Waleed",
+    title: "Director of Scrap Bahrain",
   },
 ];
 
