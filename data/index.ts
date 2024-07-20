@@ -1,6 +1,7 @@
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
+  { name: "Services", link: "#services" },
   { name: "Testimonials", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
 ];
@@ -99,7 +100,7 @@ export const projects = [
     id: 4,
     title: "Fawateeri - Simplified Billing",
     des: "Introducing Fawateeri, an advanced bill management application designed to streamline and secure your financial obligations. Access, track, and analyze bills effortlessly with customizable warranty reminders and detailed transaction charts. Simplify your financial management with Fawateeri, ensuring peace ofnmind and efficiency.",
-    img: "/dental.png",
+    img: "/fawateeri.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "",
   },
@@ -110,7 +111,7 @@ export const testimonials = [
     quote:
       "Working with Venustusy was a game-changer for our company. Their team not only brought our vision to life but also exceeded our expectations in every way. Their attention to detail and innovative approach to software solutions made a significant impact on our operations. We couldn't have asked for a better partner to guide us through our digital transformation. Venustusy truly understands the meaning of customer service and delivers it flawlessly.",
     name: "Salman Khalid",
-    title: "Founder of AiChat",
+    title: "Founder of V-Chat",
   },
   {
     quote:

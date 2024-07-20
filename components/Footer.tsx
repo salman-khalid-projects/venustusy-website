@@ -34,7 +34,7 @@ const Footer = () => {
   const [message, setMessage] = useState<string>("");
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    const url: string = `https://api.whatsapp.com/send?phone=+97337320462&text=Hello, Venustusy! My name is ${encodeURIComponent(
+    const url: string = `https://api.whatsapp.com/send?phone=+97336200663&text=Hello, Venustusy! My name is ${encodeURIComponent(
       name
     )}, I want to tell you that ${encodeURIComponent(message)}`;
     window.open(url, "_blank"); // Ensure it opens in a new tab
@@ -114,7 +114,7 @@ const Footer = () => {
           />
         </a>
       </div>
-      <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
+      {/* <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
           Copyright © 2024 Venustusy
         </p>
@@ -131,7 +131,7 @@ const Footer = () => {
             </div>
           ))}
         </div>
-      </div>
+      </div> */}
     </footer>
   );
 };
